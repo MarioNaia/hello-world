@@ -16,3 +16,9 @@ https://www.kaggle.com/wiki/PastSolutions
 http://www.chioka.in/kaggle-competition-solutions/
 
 http://analyticscosm.com/learning-predictive-analytics-kaggle-competition-solutions/
+
+Competitive Programming
+
+http://codeforces.com/
+
+https://www.topcoder.com/
