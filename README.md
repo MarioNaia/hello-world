@@ -1,9 +1,15 @@
 # hello-world
 Some good resources
 
+https://www.codeeval.com/
+
+https://www.reddit.com/r/dailyprogrammer/
+
 http://www.geeksforgeeks.org/
 
 https://leetcode.com/
+
+https://www.lintcode.com/en/
 
 http://rosettacode.org/wiki/Category:Programming_Tasks
 
