@@ -40,3 +40,13 @@ https://www.youtube.com/watch?v=JnGa7bBiglo
 https://www.youtube.com/watch?v=ClAZQI_B4t8
 
 https://www.youtube.com/watch?v=oVtvqdzqtrA
+
+Kaggle Solutions
+
+http://ndres.me/kaggle-past-solutions/
+
+https://www.kaggle.com/wiki/PastSolutions
+
+http://www.chioka.in/kaggle-competition-solutions/
+
+http://analyticscosm.com/learning-predictive-analytics-kaggle-competition-solutions/
