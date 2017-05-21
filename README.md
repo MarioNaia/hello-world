@@ -43,6 +43,13 @@ https://www.youtube.com/watch?v=u6aEYuemt0M
 
 https://www.youtube.com/watch?v=oVtvqdzqtrA
 
+https://www.youtube.com/watch?v=ys2usamKyus
+
+https://www.youtube.com/watch?v=8KzjARKIgTo
+
+https://www.youtube.com/watch?v=rIofV14c0tc
+
+
 Kaggle Solutions
 
 http://ndres.me/kaggle-past-solutions/
