@@ -56,3 +56,5 @@ http://analyticscosm.com/learning-predictive-analytics-kaggle-competition-soluti
 Machine Learning Resources
 
 https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7
+
+https://speakerdeck.com/datasciencela/jeong-yoon-lee-winning-data-science-competitions-data-science-meetup-oct-2015  slides
