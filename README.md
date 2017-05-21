@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=JnGa7bBiglo
 
 https://www.youtube.com/watch?v=ClAZQI_B4t8
 
+https://www.youtube.com/watch?v=u6aEYuemt0M
+
 https://www.youtube.com/watch?v=oVtvqdzqtrA
 
 Kaggle Solutions
