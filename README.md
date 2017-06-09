@@ -1,6 +1,10 @@
 # hello-world
 Some good resources
 
+https://www.topcoder.com/community/data-science/data-science-tutorials/
+
+https://community.topcoder.com/tc?module=ProblemArchive
+
 https://www.codeeval.com/
 
 https://www.reddit.com/r/dailyprogrammer/
@@ -14,6 +18,8 @@ https://www.lintcode.com/en/
 http://rosettacode.org/wiki/Category:Programming_Tasks
 
 http://www.techiedelight.com/
+
+https://www.pramp.com/#/
 
 Kaggle
 
