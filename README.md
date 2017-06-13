@@ -1,6 +1,10 @@
 # hello-world
 Some good resources
 
+https://www.freecodecamp.com/
+
+https://www.codecademy.com/
+
 https://www.topcoder.com/community/data-science/data-science-tutorials/
 
 https://community.topcoder.com/tc?module=ProblemArchive
