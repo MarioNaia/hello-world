@@ -25,6 +25,31 @@ http://www.techiedelight.com/
 
 https://www.pramp.com/#/
 
+Mathematics
+
+https://www.hackerrank.com/domains/mathematics/fundamentals
+
+
+Statistics
+
+https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+https://www.hackerrank.com/challenges/s10-basic-statistics/tutorial
+
+Data structures
+
+https://www.hackerrank.com/domains/data-structures/arrays
+
+Sorting and Algos
+
+https://www.hackerrank.com/domains/algorithms/warmup
+
+https://en.wikipedia.org/wiki/Sorting_algorithm
+
+http://bigocheatsheet.com/
+
+https://www.quora.com/Which-sorting-algorithm-has-best-asymptotic-run-time-complexity
+
 Kaggle
 
 https://www.kaggle.com/wiki/PastSolutions
