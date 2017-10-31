@@ -25,6 +25,8 @@ http://www.techiedelight.com/
 
 https://www.pramp.com/#/
 
+http://www.ideserve.co.in/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bir5eqdZVSy%2BokcP82PB7dw%3D%3D
+
 Mathematics
 
 https://www.hackerrank.com/domains/mathematics/fundamentals
@@ -47,6 +49,10 @@ https://www.hackerrank.com/domains/algorithms/warmup
 https://en.wikipedia.org/wiki/Sorting_algorithm
 
 http://bigocheatsheet.com/
+
+https://www.linkedin.com/pulse/10-must-know-algorithms-data-structures-software-pablo-g-cisneros/?trackingId=MFA%2B4ROsUww3K9S6WS6CIQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOHojLLoGTymxqv1OFo8DgA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object
+
+http://www.ideserve.co.in/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bir5eqdZVSy%2BokcP82PB7dw%3D%3D
 
 https://www.quora.com/Which-sorting-algorithm-has-best-asymptotic-run-time-complexity
 
