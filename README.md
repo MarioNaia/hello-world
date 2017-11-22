@@ -27,6 +27,12 @@ https://www.pramp.com/#/
 
 http://www.ideserve.co.in/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3Bir5eqdZVSy%2BokcP82PB7dw%3D%3D
 
+http://www.tutorialspoint.com/
+
+https://www.khanacademy.org/
+
+https://ocw.mit.edu/index.htm
+
 Mathematics
 
 https://www.hackerrank.com/domains/mathematics/fundamentals
